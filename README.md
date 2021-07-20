@@ -1,9 +1,9 @@
 # Amazon's Product Review Sentiment Classification
 
 
-- [x] [Ingest, Transform & Visualize Data with AWS](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/Ingest%2C%20Transform%20and%20Visualize%20Data%20with%20AWS.ipynb)
+# [Ingest, Transform & Visualize Data with AWS](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/Ingest%2C%20Transform%20and%20Visualize%20Data%20with%20AWS.ipynb)
 
-## Here's sonme of SS from that notebook
+## Here's some SS of Analysis
 
 ### Number Of Reviews per Category
 ![num_reviews_per_category](num_reviews_per_category.png)
@@ -15,7 +15,7 @@
 ![avg_sentiment_per_category](avg_sentiment_per_category.png)
 
 ### Distribution of Sentiment per Category
-![distribution_sentiment_per_category](distribution_sentiment_per_category)
+![distribution_sentiment_per_category](distribution_sentiment_per_category.png)
 
 - [x] Statistical Bias Detection in Dataset and Balanced it
 - [x] Built model using AutoML (FastText algorithm) with Amazon SageMaker Autopilot
