@@ -31,5 +31,7 @@
 
 ### [Report Of Balanced Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/balanced_report.pdf)
 
+---
+
 - [x] Built model using AutoML (FastText algorithm) with Amazon SageMaker Autopilot
 - [x] Train Model using built-in BlazingText & BERT algorithms
