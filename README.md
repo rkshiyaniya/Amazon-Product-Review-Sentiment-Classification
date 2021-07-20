@@ -21,11 +21,13 @@
 
 ## [Transformed Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/womens_clothing_ecommerce_reviews_transformed.csv)
 
+---
+
 # [Statistical Bias Detection in Dataset and Balanced it](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/Detect%20data%20bias%20with%20Amazon%20SageMaker%20Clarify.ipynb)
 
-### [Report Of Unbalanced Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/unbalanced_report.pdf)
-
 ## [Balanced Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/womens_clothing_ecommerce_reviews_balanced.csv)
+
+### [Report Of Unbalanced Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/unbalanced_report.pdf)
 
 ### [Report Of Balanced Data](https://github.com/rkshiyaniya/Amazon-Product-Review-Sentiment-Classification/blob/main/balanced_report.pdf)
 
